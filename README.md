@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+
+My name is Federico, and I'm just an italian guy who's enthusiastic about Computer Vision and Computer Science overall. 
+
+Here's in my GitHub profile you'll find some of the projects I've been working on and that I want to share. Some of them are just personal and class projects dating back to the college years, others may be just personal experiments to learn new things. 
+
+**Please enjoy!**
 
 <!--
 **FedericoCozziVM/federicocozzivm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
